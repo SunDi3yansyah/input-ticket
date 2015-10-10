@@ -22,7 +22,6 @@ td{background-color:#066;color:#fff;padding:5px;}
 <body>
 <div class="cont" style="margin="10px auto 0">
 <div class="bg-danger f-center" style="padding: 10px;">
-<table width="600" border="0" align="center" cellpadding="0" >
 <div class="f-center"><h1>Tampil Penginputan Data Pesawat</h1></div>
 <?php
 include "koneksi.php";
