@@ -12,7 +12,7 @@
 * Enjoy
 
 ### Demo
-![Input Data Pesawat](https://raw.githubusercontent.com/SunDi3yansyah/input-ticket/master/screenshot/index.png)
+![Input Data Pesawat](https://raw.githubusercontent.com/wh04mi/input-ticket/master/screenshot/index.png)
 
 
 ## License
