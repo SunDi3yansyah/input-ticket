@@ -1,0 +1,8 @@
+title: Input-ticket
+description: Input Data Tiket
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
